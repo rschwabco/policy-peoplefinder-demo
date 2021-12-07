@@ -10,7 +10,7 @@ default enabled = false
 
 allowed {
 	user_props.department == "Operations"
-	user_props.title == "IT Manager"
+	user_props.title == "IT Manager "
 }
 
 visible {
